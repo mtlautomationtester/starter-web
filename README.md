@@ -8,8 +8,10 @@ showing some more
 Sample website with plenty of files for demos
 
 ## deployment
+some text on deploy
 
 wow another paragrahpe
 ## Purpose
+wow some purpose text
 
 @@ How To Contribute
